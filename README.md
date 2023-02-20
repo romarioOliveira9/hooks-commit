@@ -7,7 +7,7 @@ Esses Hooks são utilizados para apoiar a padronização de Branches e também d
 Para conseguir utilizar esses Hooks, você precisa seguir os seguintes passos:
 
 ```
-git clone https://github.com/julioarruda/hooks.git
+git clone https://github.com/romarioOliveira9/hooks-commit.git
 
 chmod +x /workspaces/hooks/hooks/pre-commit
 chmod +x /workspaces/hooks/hooks/prepare-commit-msg
